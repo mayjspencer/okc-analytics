@@ -30,6 +30,32 @@
    - Once OKCAnalytics is built and automated, the process can be duplicated for other teams, becoming a national endeavuer.
 --- 
 
+## Skills to Build
+### Full Stack
+- **Python**
+- **SQL**
+- **React**
+- **API Development**
+- **Node.js**
+- **Data WareHousing**
+
+### Cloud Computing and Dev Ops
+- **AWS, Azure, GCP** -  for deploying and managing applications.
+- **Docker & Kubernete**s - For containerization and orchestration, aiding scalability and resource management.
+- **CI/CD** (e.g., GitHub Actions, Jenkins) - Automate code testing and deployment for faster iteration.
+
+### Analytics and ML
+- **Machine Learning** (Scikit-Learn, TensorFlow, PyTorch) - Building and deploying models for predictions and data insights.
+- **Data Visualization** (Tableau, Power BI) - Useful for creating interactive data reports and dashboards.
+- **ETL and Data Pipelines** (Airflow, Spark) - For data processing and integration across different systems.
+  
+### Version Control
+**Git** - Essential for managing code and collaboration across any project type.
+
+### Other Skills
+- **Scripting for Automation** (Python, Bash) - Automate tasks across development, data processing, and system management.
+---
+
 ## Plan
 
 **Phase 1: Set Up Your Foundation**
