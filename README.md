@@ -30,69 +30,86 @@
    - Once OKCAnalytics is built and automated, the process can be duplicated for other teams, becoming a national endeavuer.
 --- 
 
-### **Phase 1: Foundation and Initial Setup (Weeks 1-4)**
+## Plan
 
-1. **GitHub & Version Control Basics**
-   - **Skills**: Git, GitHub
-   - **Application**: Set up a structured repository for your project with an organized README, folder structure, and initial documentation.
+**Phase 1: Set Up Your Foundation**
 
-2. **Basic Data Collection and Exploration**
-   - **Skills**: Python basics, Data manipulation (Pandas)
-   - **Application**: Collect initial data for your project, such as game statistics or player performance, using web scraping or an open API.
-   - **Action**: Analyze this data for basic insights, create simple charts or summaries, and share your findings on social media.
+1. **Learn Version Control**:
+   - **Create a GitHub Account**: Sign up at GitHub and set up your profile.
+   - **Repository Setup**: 
+     - Create a new repository named `sports-analytics-project`.
+     - Add a clear `README.md` file explaining the project goals and structure.
+     - Familiarize yourself with basic Git commands (clone, commit, push, pull).
 
----
+2. **Data Collection Basics**:
+   - **Install Necessary Tools**: Set up Python and install libraries like `requests`, `Pandas`, and `Matplotlib`.
+   - **Familiarize Yourself with APIs**: Read the documentation for sports APIs (e.g., NBA API) and write simple scripts to fetch data.
 
-### **Phase 2: Core Sports Analytics and Visualization (Weeks 5-8)**
+**Phase 2: Data Analysis and Visualization**
 
-1. **Data Visualization Techniques**
-   - **Skills**: Data visualization with Matplotlib, Seaborn
-   - **Application**: Create engaging visuals of team and player statistics.
-   - **Action**: Share these visuals as infographics on social media, explaining the insights and engaging with your audience.
+3. **Analyze Data**:
+   - **Data Manipulation**: Use `Pandas` to create DataFrames and perform basic operations to analyze player statistics and game data.
+   - **Create Visualizations**: Use `Matplotlib` to create charts and graphs that visually represent the data (e.g., player performance over time).
 
-2. **Exploratory Data Analysis (EDA)**
-   - **Skills**: Descriptive statistics, visual analytics
-   - **Application**: Explore and clean your dataset, identifying patterns in performance or trends over time.
-   - **Action**: Post detailed analysis of a specific event or trend (e.g., recent game performance trends) and share the highlights with your followers.
+4. **Engage on Social Media**:
+   - Develop a content calendar to post findings and visualizations regularly on social media (e.g., Twitter, Instagram).
+   - Create engaging posts summarizing key insights from your analyses.
 
----
+**Phase 3: Advanced Analytics and Publications**
 
-### **Phase 3: Advanced Analytics and Community Engagement (Weeks 9-12)**
+5. **Develop Predictive Models**:
+   - **Learn Basic Machine Learning**: Study introductory machine learning concepts through online courses.
+   - Implement simple models to predict player performance based on historical data.
 
-1. **Machine Learning for Predictions**
-   - **Skills**: Basic machine learning with Scikit-Learn (linear regression, decision trees)
-   - **Application**: Develop a simple predictive model, such as predicting player performance based on historical data.
-   - **Action**: Share the results of your predictions on social media, explain the model, and discuss how it could provide valuable insights for fans and teams alike.
+6. **Create a Periodic Publication**:
+   - Compile your analyses into a structured document (e.g., a 30-page PDF summarizing insights on the OKC 2023 season).
+   - Use tools like LaTeX or Google Docs for formatting and organizing your publication.
+   - Consider including key statistics, trends, and visualizations in the publication.
 
-2. **Data Visualization Tools (Power BI, Tableau)**
-   - **Skills**: Interactive data visualization
-   - **Application**: Design a sports dashboard showcasing real-time or seasonal data.
-   - **Action**: Share your dashboards in your GitHub portfolio and on social media, inviting feedback and engagement from your audience.
+**Phase 4: Dashboards and Web App Development**
 
----
+7. **Build Interactive Dashboards**:
+   - **Learn Dashboard Tools**: Explore Tableau or Power BI to create interactive visualizations.
+   - Publish your dashboards online and share the links on your social media accounts to engage your audience.
 
-### **Phase 4: Full-Stack Deployment and Cloud Computing (Weeks 13-16)**
-
-1. **Backend Development and API Creation**
+8. **Develop Your Web App**:
+   - **Learn Basic Web Development**: Familiarize yourself with Flask or Django to create a simple web application.
+   - The web app should display your analyses, visualizations, and provide downloadable content (e.g., the periodic publication).
+  
+   **Backend Development and API Creation**
    - **Skills**: Flask or Django, REST API development
    - **Application**: Build an API that others could use to query your sports data analysis.
    - **Action**: Share this API on GitHub and announce it on your social media with a demo.
 
-2. **Cloud Hosting and Deployment**
+   **Cloud Hosting and Deployment**
    - **Skills**: AWS or Azure, containerization with Docker
    - **Application**: Deploy your sports analytics project as a web app, so others can access your analysis and models.
-   - **Action**: Share a link to the app on social media and GitHub, and ask for user feedback.
+   - **Action**: Share a link to the app on social media and GitHub, and ask for user feedback.**
 
----
+**Phase 5: Automation of Content Posting**
 
-### **Phase 5: Continuous Improvement and Engagement (Ongoing)**
+9. **Automate Posting to Social Media**:
+   - **Use Social Media APIs**: Learn how to use APIs for Twitter and Instagram to automate posting.
+   - Develop scripts that can:
+     - Schedule posts based on your content calendar.
+     - Automatically upload images and text summaries after games or when new analyses are completed.
+   - Set up automated notifications for engaging content to respond to comments or interact with followers.
 
-1. **Continuous Improvement in Machine Learning and Advanced Analysis**
+10. **Monitor Engagement**:
+   - Track engagement metrics on your social media posts (likes, shares, comments).
+   - Use this data to refine your content strategy and improve engagement over time.
+
+**Phase 6: Continuous Improvement and Engagement**
+
+11. **Iterate and Improve**:
+   - Regularly update your analyses based on new data and refine your predictive models.
+   - Share your findings and updates consistently to maintain audience engagement.
+
+12. **Engage with Your Community**:
+   - Foster relationships with your audience by responding to comments, conducting polls, and encouraging discussions.
+   - Consider joining online communities focused on sports analytics to share your work and learn from others.
+
+13. **Continuous Improvement in Machine Learning and Advanced Analysis**
    - **Skills**: Advanced ML techniques (neural networks with TensorFlow or PyTorch)
    - **Application**: Develop and refine predictive models to analyze more complex questions.
    - **Action**: Share new findings and models as your skills advance, and keep refining your analytics portfolio to highlight your growth.
-
-2. **Audience Engagement and Regular Posting**
-   - **Skills**: Social media strategy, SEO for GitHub and website
-   - **Application**: Build a following by sharing regular insights, tutorials, and project updates.
-   - **Action**: Use consistent, high-quality posts to attract interest, join discussions, and offer tutorials or insights into sports analytics topics.
