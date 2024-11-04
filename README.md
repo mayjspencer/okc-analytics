@@ -10,6 +10,7 @@
 
 2. **Content Creation and Posting**:
    - Automatically generate social media posts with summaries of game statistics and visualizations (e.g., player shot charts) using text templates.
+   - Provide useful information!!
    - Leverage Twitter and Facebook APIs for direct posting, and consider using tools like Buffer for scheduling posts. Set up automated responses to engage with audience.
 
 3. **Periodic Publications**:
