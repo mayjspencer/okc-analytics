@@ -82,49 +82,40 @@
    - Develop a content calendar to post findings and visualizations regularly on social media (e.g., Twitter, Instagram).
    - Create engaging posts summarizing key insights from your analyses.
 
-**Phase 3: Advanced Analytics and Publications**
-
-5. **Develop Predictive Models**:
-   - **Learn Basic Machine Learning**: Study introductory machine learning concepts through online courses.
-   - Implement simple models to predict player performance based on historical data.
-
-6. **Create a Periodic Publication**:
-   - Compile your analyses into a structured document (e.g., a 30-page PDF summarizing insights on the OKC 2023 season).
-   - Use tools like LaTeX or Google Docs for formatting and organizing your publication.
-   - Consider including key statistics, trends, and visualizations in the publication.
-
-**Phase 4: Dashboards and Web App Development**
-
-7. **Build Interactive Dashboards**:
-   - **Learn Dashboard Tools**: Explore Tableau or Power BI to create interactive visualizations.
-   - Publish your dashboards online and share the links on your social media accounts to engage your audience.
-
-8. **Develop Your Web App**:
-   - **Learn Basic Web Development**: Familiarize yourself with Flask or Django to create a simple web application.
-   - The web app should display your analyses, visualizations, and provide downloadable content (e.g., the periodic publication).
-  
-   **Backend Development and API Creation**
-   - **Skills**: Flask or Django, REST API development
-   - **Application**: Build an API that others could use to query your sports data analysis.
-   - **Action**: Share this API on GitHub and announce it on your social media with a demo.
-
-   **Cloud Hosting and Deployment**
-   - **Skills**: AWS or Azure, containerization with Docker
-   - **Application**: Deploy your sports analytics project as a web app, so others can access your analysis and models.
-   - **Action**: Share a link to the app on social media and GitHub, and ask for user feedback.**
-
 **Phase 5: Automation of Content Posting**
 
-9. **Automate Posting to Social Media**:
+5. **Automate Posting to Social Media**:
    - **Use Social Media APIs**: Learn how to use APIs for Twitter and Instagram to automate posting.
    - Develop scripts that can:
      - Schedule posts based on your content calendar.
      - Automatically upload images and text summaries after games or when new analyses are completed.
    - Set up automated notifications for engaging content to respond to comments or interact with followers.
 
-10. **Monitor Engagement**:
+6. **Monitor Engagement**:
    - Track engagement metrics on your social media posts (likes, shares, comments).
    - Use this data to refine your content strategy and improve engagement over time.
+
+**Phase 3: Advanced Analytics and Publications**
+
+7. **Develop Predictive Models**:
+   - **Learn Basic Machine Learning**: Study introductory machine learning concepts through online courses.
+   - Implement simple models to predict player performance based on historical data.
+
+8. **Create a Periodic Publication**:
+   - Compile your analyses into a structured document (e.g., a 30-page PDF summarizing insights on the OKC 2023 season).
+   - Use tools like LaTeX or Google Docs for formatting and organizing your publication.
+   - Consider including key statistics, trends, and visualizations in the publication.
+
+**Phase 4: Dashboards and Web App Development**
+
+9. **Build Interactive Dashboards**:
+   - **Learn Dashboard Tools**: Explore Tableau or Power BI to create interactive visualizations.
+   - Publish your dashboards online and share the links on your social media accounts to engage your audience.
+
+10. **Develop Your Web App**:
+   - **Learn Basic Web Development**: Familiarize yourself with Flask or Django to create a simple web application.
+   - The web app should display your analyses, visualizations, and provide downloadable content (e.g., the periodic publication).
+  
 
 **Phase 6: Continuous Improvement and Engagement**
 
@@ -140,3 +131,13 @@
    - **Skills**: Advanced ML techniques (neural networks with TensorFlow or PyTorch)
    - **Application**: Develop and refine predictive models to analyze more complex questions.
    - **Action**: Share new findings and models as your skills advance, and keep refining your analytics portfolio to highlight your growth.
+
+14. **Backend Development and API Creation**
+   - **Skills**: Flask or Django, REST API development
+   - **Application**: Build an API that others could use to query your sports data analysis.
+   - **Action**: Share this API on GitHub and announce it on your social media with a demo.
+
+15. **Cloud Hosting and Deployment**
+   - **Skills**: AWS or Azure, containerization with Docker
+   - **Application**: Deploy your sports analytics project as a web app, so others can access your analysis and models.
+   - **Action**: Share a link to the app on social media and GitHub, and ask for user feedback.**
