@@ -141,3 +141,7 @@
    - **Skills**: AWS or Azure, containerization with Docker
    - **Application**: Deploy your sports analytics project as a web app, so others can access your analysis and models.
    - **Action**: Share a link to the app on social media and GitHub, and ask for user feedback.**
+
+16. **Cover New Data Topics**
+   - **Draft Analysis**: Predict, analyze, or recommend how OKC should draft or should have drafted.
+   - **Playoff Picture**: Predict the playoff bracket, results, matchups, etc.
