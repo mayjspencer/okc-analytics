@@ -51,7 +51,7 @@
 - **ETL and Data Pipelines** (Airflow, Spark) - For data processing and integration across different systems.
   
 ### Version Control
-**Git** - Essential for managing code and collaboration across any project type.
+- **Git** - Essential for managing code and collaboration across any project type.
 
 ### Other Skills
 - **Scripting for Automation** (Python, Bash) - Automate tasks across development, data processing, and system management.
