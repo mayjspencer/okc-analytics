@@ -1,19 +1,13 @@
-import requests
-import pandas as pd
+from nba_api.stats.static import teams
+from nba_api.stats.endpoints import teamdetails
 
-# URL for Oklahoma City Thunder stats (Example API)
-url = 'https://data.nba.net/data/10s/prod/v1/2024/teams/okc/roster.json'  # Modify this URL based on your API choice
+# Get the team ID for the Oklahoma City Thunder
+okc_team = teams.find_teams_by_full_name("Oklahoma City Thunder")[0]
+okc_team_id = okc_team['id']
 
-response = requests.get(url)
+# Get the team details, which includes the roster
+team_info = teamdetails.TeamDetails(team_id=okc_team_id)
 
-if response.status_code == 200:
-    data = response.json()
-    players = data['league']['standard']['players']
-    
-    # Create a DataFrame
-    df = pd.json_normalize(players)
-    
-    # Display the first few rows
-    print(df.head())
-else:
-    print(f"Error: {response.status_code}")
+# Print the team roster
+print(team_info.get_data_frames()[0])  # The first DataFrame contains the roster
+
